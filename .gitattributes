@@ -1,0 +1,4 @@
+Ex[[:space:]]1/*.bin filter=lfs diff=lfs merge=lfs -text
+Ex[[:space:]]2/*.zip filter=lfs diff=lfs merge=lfs -text
+Ex[[:space:]]1/** filter=lfs diff=lfs merge=lfs -text
+Ex[[:space:]]2/** filter=lfs diff=lfs merge=lfs -text
